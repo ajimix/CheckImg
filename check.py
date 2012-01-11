@@ -1,3 +1,5 @@
+#!/usr/bin/python
+
 # You should install Imaging module for Python
 # http://www.pythonware.com/products/pil/
 
